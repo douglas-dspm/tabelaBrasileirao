@@ -1,0 +1,29 @@
+h1#paragrafo{
+    color: red;
+    font-size: 50px;
+    font-family: arial;
+    text-align: center;
+}
+body{
+    background-color: rgba(119, 128, 70, 0.391);
+}
+
+p{
+   font-size: 20px; 
+   text-align: justify;
+}
+
+ul{
+    font-size: 20px;
+    list-style-type: upper-latin;
+}
+
+h2{
+    color: blue;
+}
+
+img#imagem{
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
